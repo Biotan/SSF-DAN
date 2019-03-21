@@ -1,6 +1,6 @@
-# S2-DAN:Semantic-wise Separable Domain Adaptation Network for Semantic Segmentation
-The code and resources for " S2-DAN:Semantic-wise Separable Domain Adaptation Network for Semantic Segmentation "  
-We have uploaded all the models and the evaluate code and we will upload the train code soon.
+# SSF-DAN 
+The code and resouces for SSF-DAN , We have uploaded all the models and the evaluate code.  
+We will publish the paper and upload the train code soon.
 
 ![the result of the cityscape val dataset can be seen as follow](https://github.com/JingangTan/S2-DAN/blob/master/pictures/result.jpg)
 
