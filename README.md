@@ -9,7 +9,7 @@ We have uploaded all the models and the evaluate code and we will upload the tra
 ## System requirements
 System : ubuntu 16.04
 Hardware: Nvidia Tesla P100 (GPU usage: ~10GB)
-Software: Pytorch 0.4.1, CUDA-8.0, cuDNN 5.1, python 3.5
+Software: Pytorch 0.4.1, CUDA-8.0, cuDNN 5.1 or 6.0, python 3.5
 For more packages information, we prepared them in the requires.sh file. 
 
 ## Pretrained model
