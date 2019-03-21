@@ -7,9 +7,9 @@ We will publish the paper and upload the train code soon.
 ![the mIoU comparison with the state-of-art methods](https://github.com/JingangTan/S2-DAN/blob/master/pictures/mIoU_comparison.png)
 
 ## System requirements
-System : ubuntu 16.04
-Hardware: Nvidia Tesla P100 (GPU usage: ~10GB)
-Software: Pytorch 0.4.1, CUDA-8.0, cuDNN 5.1 or 6.0, python 3.5
+System : ubuntu 16.04  
+Hardware: Nvidia Tesla P100 (GPU usage: ~10GB)  
+Software: Pytorch 0.4.1, CUDA-8.0, cuDNN 5.1 or 6.0, python 3.5  
 For more packages information, we prepared them in the requires.sh file. 
 
 ## Pretrained model
