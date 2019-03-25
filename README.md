@@ -8,7 +8,7 @@ We will publish the paper and upload the train code soon.
 
 ## System requirements
 System : ubuntu 16.04  
-Hardware: Nvidia Tesla P100 (GPU usage: ~10GB)  
+Hardware: Nvidia Tesla P100  
 Software: Pytorch 0.4.1, CUDA-8.0, cuDNN 5.1 or 6.0, python 3.5  
 For more packages information, we prepared them in the requires.sh file. 
 
@@ -25,21 +25,21 @@ In the experiments, we use GTA5, cityscape, Synthia, Crosscity datasets,you can 
 ## Usage
 1.make a project dir:  
 ```
-mkdir ~/S2-DAN
+mkdir ~/SSF-DAN
 ```
-2.clone the S2-DAN repository:  
+2.clone the SSF-DAN repository:  
 ```
-git clone https://github.com/JingangTan/S2-DAN
+git clone https://github.com/JingangTan/SSF-DAN
 ```
 3.download the GTA5 dataset and put it in ```dataset/GTA5/``` and download Cityscape dataset put it in ```dataset/Cityscapes/```. For other dataset, you can take the same operation.
 
 4.create a new virtual enviromen, if you want to use system python enviromen,you can ignore this.
 ```
 sudo pip install virtualenv
-virtualenv -p usr/bin/python3.5 ~/vir-s2-dan
-cd ~/vir-s2-dan
+virtualenv -p usr/bin/python3.5 ~/vir-ssf-dan
+cd ~/vir-ssf-dan
 source bin/activate
-cd ~/S2-DAN
+cd ~/SSF-DAN
 ```
 5.install the packages in requires.sh:  
 ```
