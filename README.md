@@ -36,7 +36,7 @@ git clone https://github.com/JingangTan/SSF-DAN
 4.create a new virtual enviromen, if you want to use system python enviromen,you can ignore this.
 ```
 sudo pip install virtualenv
-virtualenv -p usr/bin/python3.5 ~/vir-ssf-dan
+virtualenv -p /usr/bin/python3.5 ~/vir-ssf-dan
 cd ~/vir-ssf-dan
 source bin/activate
 cd ~/SSF-DAN
